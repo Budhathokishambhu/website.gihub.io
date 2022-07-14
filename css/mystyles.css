@@ -1,0 +1,29 @@
+.wrapper
+{
+	width:1000px;
+	height:800px;
+}
+.header
+{
+	height:150px;
+	background-color:pink;
+}
+#nav
+{
+	height:50px;
+}
+#sidebar
+{
+	width:200px;
+	float:left;
+}
+#main
+{
+	width:750px
+	margin-left:20px;
+}
+#footer
+{
+    height:150px;
+    clear:both;
+}	
